@@ -1,0 +1,111 @@
+text,expected_label,difficulty
+عندي صورك، ادفع 5000 ريال وإلا أنشرها,extortion,easy
+معي فيديو خاص لك، حول 10000 ريال على هذا الحساب,extortion,easy
+عندي محادثاتك مع البنت، تدفع أو أفضحك,extortion,easy
+آخر تحذير: حول المبلغ أو أنشر كل شي الليلة,extortion,easy
+عندي نسخة من صورك، لو ما دفعت راح أرسلها لأصحابك,extortion,easy
+ادفع 500$ بيتكوين وإلا أنشر الصور على الإنترنت,extortion,easy
+عندي فيديوهاتك، مقابل 2000 ريال أمسحها,extortion,easy
+المبلغ 3000 ريال، وإلا أرسل الصور لزوجتك,extortion,easy
+حول المبلغ المطلوب وإلا أنشر على كل الجروبات,extortion,easy
+ادفع الآن أو صورك على الفيسبوك بعد ساعة,extortion,easy
+عندي صورك الخاصة، 5000 ريال وتخلص,extortion,easy
+أرسل المبلغ على رقم الحساب، أو بفضحك,extortion,easy
+بطاقة شحن بـ 1000 ريال وإلا أنشر الصور,extortion,medium
+لو ما دفعت، راح أخبر عائلتك بكل شي,extortion,easy
+آخر فرصة قبل ما أنشر، ادفع,extortion,medium
+سأقتلك إذا ما ساعدتني,threat,easy
+أعرف بيتك وراح أجيك,threat,easy
+انتبه لنفسك ولأولادك,threat,medium
+نعرف مكان عملك، لا تختبرنا,threat,easy
+راح أذيك أنت وعائلتك,threat,easy
+سأدمر حياتك إذا ما نفذت طلبي,threat,easy
+مستعد لك، انتظرني,threat,hard
+عندي معلوماتك، لا تلعب معي,threat,medium
+أعرف كل شي عنك، احذر,threat,hard
+سأجعلك تندم على هذا اليوم,threat,medium
+أرسل لي صورة شخصية، عادي,suspicious,medium
+ممكن نتبادل صور؟,suspicious,medium
+أرسل صورك الخاصة ونكون أصدقاء,suspicious,medium
+أرسل كود التحقق بسرعة,suspicious,easy
+تم إيقاف حسابك، أرسل OTP,suspicious,easy
+أنا من البنك، أرسل الرقم السري,suspicious,easy
+تم اختراق حسابك، أكد هويتك,suspicious,easy
+مبروك! ربحت جائزة 10000 ريال,suspicious,easy
+انقر الرابط لاستلام الجائزة,suspicious,easy
+عندي عرض خاص لك,suspicious,hard
+أرسل بياناتك البنكية للتحديث,suspicious,easy
+أنا معجب بك، أرسل صور,suspicious,medium
+مرحبا كيف حالك؟,normal,easy
+شكراً جزيلاً على المساعدة,normal,easy
+نلتقي بكرة الساعة 5,normal,easy
+عندي صور أشعة، أرسلها للدكتور,normal,hard
+أرسل صور الأولاد لأمهم,normal,hard
+ادفع الفاتورة عبر الموقع الرسمي,normal,hard
+حول المبلغ لحساب الشركة,normal,hard
+عندي كلام مهم، اتصل بي,normal,hard
+وصلني إشعار من البنك، أتأكد منه,normal,medium
+هذه صور من رحلتنا,normal,easy
+الفيديو اللي أرسلته وصل؟,normal,easy
+الرمز السري للحساب الجديد,normal,hard
+أرسل لي الأوراق المطلوبة,normal,easy
+تأكد من حسابك بزيارة الموقع,normal,medium
+عندي مقابلة عمل بكرة,normal,easy
+"I have your photos, pay me or I'll leak them",extortion,easy
+Send money or I will expose you,extortion,easy
+I know where you live,threat,easy
+Pay or I send to your family,extortion,easy
+"Your account is locked, send OTP",suspicious,easy
+Congratulations! You won $10000,suspicious,easy
+Hi how are you today?,normal,easy
+Thanks for your help yesterday,normal,easy
+معي صورك يالغالي، دبر لك مبلغ ولا أخبر الناس,extortion,easy
+عندي مقاطعك، شل قرش ولا بنشرها,extortion,medium
+والله لأفضحك في كل مكان,threat,easy
+أنا عارف وين ساكن، لا تجبرني,threat,easy
+يا رجال، ادفع ولا شوف,extortion,medium
+شوف لك حل ولا بزعل,suspicious,hard
+أرسل لي الصورة ذي,suspicious,hard
+كيف حالك يا أخي,normal,easy
+مشكور يا طيب,normal,easy
+نتلاقى بكرة إن شاء الله,normal,easy
+معي صورك، ادفع أو بنشرها,extortion,easy
+عندي مقاطعك، حوّل المبلغ ولا بفضحك,extortion,easy
+تراني عارف بيتكم,threat,medium
+خلاص، آخر فرصة تدفع,extortion,medium
+لا تشوف شر,normal,easy
+عطني خبر إذا وصلت,normal,easy
+أبشر بالسعد,normal,easy
+أنت وينك الحين؟,normal,easy
+أرسل لي الملف بسرعة,normal,easy
+شكراً يا غالي,normal,easy
+معايا صورك، ادفع أو هفضحك,extortion,easy
+عندي فيديوهاتك، حول الفلوس,extortion,easy
+أنا عارف ساكن فين,threat,medium
+يا عم ادفع وخلصنا,extortion,medium
+إزيك يا باشا,normal,easy
+تمام يا فندم,normal,easy
+شكراً يا كبير,normal,easy
+نتقابل بكرة,normal,easy
+ابعتلي الصور,normal,hard
+معلش، حصل خير,normal,easy
+معي صورك، ادفع أو بفضحك,extortion,easy
+عندي فيديوهاتك، حوّل المصاري,extortion,easy
+أنا عارف وين ساكن,threat,medium
+يا زلمة ادفع وخلصنا,extortion,medium
+كيفك يا صاحبي؟,normal,easy
+شو أخبارك؟,normal,easy
+تسلم يا غالي,normal,easy
+منشوفك بكرة,normal,easy
+ابعتلي الصورة,normal,hard
+شكراً كتير,normal,easy
+عندي تصاورك، خلص ولا ننشرهم,extortion,medium
+معايا الفيديوهات، صيفط الفلوس,extortion,medium
+كنعرف فين ساكن,threat,hard
+خلص، دفع ولا مشكل,extortion,medium
+كي داير؟,normal,easy
+شكراً بزاف,normal,easy
+نتلاقاو غدا,normal,easy
+صيفط ليا الصورة,normal,hard
+واش عندك جديد؟,normal,easy
+الله يخليك,normal,easy

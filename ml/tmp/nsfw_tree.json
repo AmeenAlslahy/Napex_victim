@@ -1,0 +1,340 @@
+{
+  "sha": "699b6796a55604341fbfdffe2b27ced1d868c591",
+  "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/699b6796a55604341fbfdffe2b27ced1d868c591",
+  "tree": [
+    {
+      "path": ".all-contributorsrc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4953de0d949390a145a645ec00325f636674d3fb",
+      "size": 958,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/4953de0d949390a145a645ec00325f636674d3fb"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ee29219ad5bbba7dae8a1be61614483704223f8f",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/ee29219ad5bbba7dae8a1be61614483704223f8f"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0f83d2c7d2d2434492fbd51290376db45176f287",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/0f83d2c7d2d2434492fbd51290376db45176f287"
+    },
+    {
+      "path": ".github/workflows/release.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b51d5da4f2ad80002cb667c0526fee9595590fca",
+      "size": 2431,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/b51d5da4f2ad80002cb667c0526fee9595590fca"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40dd032d46b7873930fe17194515d4ccac60807a",
+      "size": 205,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/40dd032d46b7873930fe17194515d4ccac60807a"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76babbb9d1d7242845380af7d9a67d2411e2ed56",
+      "size": 1069,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/76babbb9d1d7242845380af7d9a67d2411e2ed56"
+    },
+    {
+      "path": "LICENSE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e5dbf33f62994c07bdce783b8b94795add70540",
+      "size": 1243,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/7e5dbf33f62994c07bdce783b8b94795add70540"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d777adbbec1ea5f03c9855d31d91a689b167fae4",
+      "size": 7345,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/d777adbbec1ea5f03c9855d31d91a689b167fae4"
+    },
+    {
+      "path": "_art",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bff05a850ce01939e0aaab568e5dfd6e2a136a99",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/bff05a850ce01939e0aaab568e5dfd6e2a136a99"
+    },
+    {
+      "path": "_art/nsfw_confusion93.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "419507b660cf3ef83e2262ade61acf1e29623ee6",
+      "size": 30121,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/419507b660cf3ef83e2262ade61acf1e29623ee6"
+    },
+    {
+      "path": "_art/nsfw_detection.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8526e658f2ed356e3de098a86f74be701b03d700",
+      "size": 31426,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/8526e658f2ed356e3de098a86f74be701b03d700"
+    },
+    {
+      "path": "images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af7afc36da635fe8cc6c4102fded2c68bca36f0f",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/af7afc36da635fe8cc6c4102fded2c68bca36f0f"
+    },
+    {
+      "path": "images/ReadMe.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e769e6aff53b681e4e4ab7afbdb0827bd07921ed",
+      "size": 840,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/e769e6aff53b681e4e4ab7afbdb0827bd07921ed"
+    },
+    {
+      "path": "nsfw_detector",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "230ca81eb529cd3056b3eeb5e24a9e50c007dd42",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/230ca81eb529cd3056b3eeb5e24a9e50c007dd42"
+    },
+    {
+      "path": "nsfw_detector/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a32d3be7c8074acaf0b75012b09ba5ded3c348de",
+      "size": 31,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/a32d3be7c8074acaf0b75012b09ba5ded3c348de"
+    },
+    {
+      "path": "nsfw_detector/predict.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9740a9d210d64b0a54602ed3c8e44b5c2a5510e4",
+      "size": 4517,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/9740a9d210d64b0a54602ed3c8e44b5c2a5510e4"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22e8c70a9688782f21fea6995f10d800035dec37",
+      "size": 128,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/22e8c70a9688782f21fea6995f10d800035dec37"
+    },
+    {
+      "path": "setup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be569d1c97a12780b413fb1b3f2bbba7a8ddf24b",
+      "size": 4244,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/be569d1c97a12780b413fb1b3f2bbba7a8ddf24b"
+    },
+    {
+      "path": "tf1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "53017114f35c717d710c1429309fc3df8b8ee75d",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/53017114f35c717d710c1429309fc3df8b8ee75d"
+    },
+    {
+      "path": "tf1/ReadMe.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "caeae16eeb54783c76233763466824f341c492ea",
+      "size": 141,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/caeae16eeb54783c76233763466824f341c492ea"
+    },
+    {
+      "path": "tf1/nsfw_detector",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ee0d74785f48ddf33bdad76da3414f7f4c9a8f2d",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/ee0d74785f48ddf33bdad76da3414f7f4c9a8f2d"
+    },
+    {
+      "path": "tf1/nsfw_detector/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "744fcad16993231a8351c5dfe492b2bff6649450",
+      "size": 58,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/744fcad16993231a8351c5dfe492b2bff6649450"
+    },
+    {
+      "path": "tf1/nsfw_detector/keras_predict.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05cfa006ceff6e53867978fcbbfdfaa5c30e0bd5",
+      "size": 3413,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/05cfa006ceff6e53867978fcbbfdfaa5c30e0bd5"
+    },
+    {
+      "path": "tf1/training",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "544a6877bbaae3574cfde389c34e3abad61bf7b3",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/544a6877bbaae3574cfde389c34e3abad61bf7b3"
+    },
+    {
+      "path": "tf1/training/inceptionv3_transfer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bbf52c97e64888753fb7657e2392b110af85d792",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/bbf52c97e64888753fb7657e2392b110af85d792"
+    },
+    {
+      "path": "tf1/training/inceptionv3_transfer/callbacks.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f85fd17e8530df54c4c27bb2bcc2e44f270aaba",
+      "size": 973,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/4f85fd17e8530df54c4c27bb2bcc2e44f270aaba"
+    },
+    {
+      "path": "tf1/training/inceptionv3_transfer/constants.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00d0ebebae3034a7d0e81870f472c164f7bf0dfe",
+      "size": 208,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/00d0ebebae3034a7d0e81870f472c164f7bf0dfe"
+    },
+    {
+      "path": "tf1/training/inceptionv3_transfer/generators.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e75dc72954252c25119440a9d2cbd58232e6e093",
+      "size": 1056,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/e75dc72954252c25119440a9d2cbd58232e6e093"
+    },
+    {
+      "path": "tf1/training/inceptionv3_transfer/train_fine_tune.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72838befdb816919d915e21b5cea1cd022df6cfa",
+      "size": 1849,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/72838befdb816919d915e21b5cea1cd022df6cfa"
+    },
+    {
+      "path": "tf1/training/inceptionv3_transfer/train_initialization.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7486e3082df6bc1946d35bcc967120490495bd99",
+      "size": 2567,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/7486e3082df6bc1946d35bcc967120490495bd99"
+    },
+    {
+      "path": "tf1/training/mobilenetv2_transfer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1b49fdf83c570c1144ae224468d003b02e6b9d37",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/1b49fdf83c570c1144ae224468d003b02e6b9d37"
+    },
+    {
+      "path": "tf1/training/mobilenetv2_transfer/callbacks.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f85fd17e8530df54c4c27bb2bcc2e44f270aaba",
+      "size": 973,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/4f85fd17e8530df54c4c27bb2bcc2e44f270aaba"
+    },
+    {
+      "path": "tf1/training/mobilenetv2_transfer/constants.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47a0c7bba5b9c15f2a295781fb29cef88264370e",
+      "size": 208,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/47a0c7bba5b9c15f2a295781fb29cef88264370e"
+    },
+    {
+      "path": "tf1/training/mobilenetv2_transfer/generators.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e75dc72954252c25119440a9d2cbd58232e6e093",
+      "size": 1056,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/e75dc72954252c25119440a9d2cbd58232e6e093"
+    },
+    {
+      "path": "tf1/training/mobilenetv2_transfer/train_fine_tune.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f12cc87298281e0ec9053c949e3617f77918d68",
+      "size": 2193,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/5f12cc87298281e0ec9053c949e3617f77918d68"
+    },
+    {
+      "path": "tf1/training/mobilenetv2_transfer/train_initialization.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50a1bfd9f31837b3c353bb0603fa7d06d5346394",
+      "size": 2879,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/50a1bfd9f31837b3c353bb0603fa7d06d5346394"
+    },
+    {
+      "path": "tf1/training/self_clense.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "536b488860ac029918c58eb6934ac8b6903654a7",
+      "size": 2566,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/536b488860ac029918c58eb6934ac8b6903654a7"
+    },
+    {
+      "path": "tf1/training/visuals.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "050ddb81334376a15b97de7afa016d6b040b5f1c",
+      "size": 2718,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/050ddb81334376a15b97de7afa016d6b040b5f1c"
+    },
+    {
+      "path": "training",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "032dbc32cf0a310cd5ddaa706e32ca109566ce9d",
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/trees/032dbc32cf0a310cd5ddaa706e32ca109566ce9d"
+    },
+    {
+      "path": "training/make_nsfw_model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36b5257b570adf8965cf7d225d591d2bd25045ef",
+      "size": 13445,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/36b5257b570adf8965cf7d225d591d2bd25045ef"
+    },
+    {
+      "path": "training/make_nsfw_model_lib.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee65059d8c2998221b401c6eb517216d2df0d982",
+      "size": 20718,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/ee65059d8c2998221b401c6eb517216d2df0d982"
+    },
+    {
+      "path": "training/train_all_models.cmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b31548fbc8b7ad2dfe92e1a9d9d3a6ff3c6aeee3",
+      "size": 6427,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/b31548fbc8b7ad2dfe92e1a9d9d3a6ff3c6aeee3"
+    },
+    {
+      "path": "training/train_all_models.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a43db37b4fea8a047ae392a5b7c244b9e71bacf8",
+      "size": 6369,
+      "url": "https://api.github.com/repos/GantMan/nsfw_model/git/blobs/a43db37b4fea8a047ae392a5b7c244b9e71bacf8"
+    }
+  ],
+  "truncated": false
+}

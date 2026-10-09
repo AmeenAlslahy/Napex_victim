@@ -1,0 +1,674 @@
+{
+  "sha": "c3efe0a3a380e81fa944b291aee7a3eff7ab6339",
+  "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/c3efe0a3a380e81fa944b291aee7a3eff7ab6339",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b75303ac58f551de0a327638a60b909c6d33ece",
+      "size": 203,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/2b75303ac58f551de0a327638a60b909c6d33ece"
+    },
+    {
+      "path": ".idea",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e448b840939cbe1c7c27e181585991996347f05d",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/e448b840939cbe1c7c27e181585991996347f05d"
+    },
+    {
+      "path": ".idea/codeStyles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "426b63b9d17736be8447a84745a3c2933ad08fb2",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/426b63b9d17736be8447a84745a3c2933ad08fb2"
+    },
+    {
+      "path": ".idea/codeStyles/Project.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "455250fa213d575557191e4cbfe3c48119d97908",
+      "size": 512,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/455250fa213d575557191e4cbfe3c48119d97908"
+    },
+    {
+      "path": ".idea/codeStyles/codeStyleConfig.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79ee123c2b23e069e35ed634d687e17f731cc702",
+      "size": 142,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/79ee123c2b23e069e35ed634d687e17f731cc702"
+    },
+    {
+      "path": ".idea/dictionaries",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c141eadc41249d1ed9b4cc0cfd0959adecb0d2ea",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/c141eadc41249d1ed9b4cc0cfd0959adecb0d2ea"
+    },
+    {
+      "path": ".idea/dictionaries/jason.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1fa4fce6a7a964dd4047ef4b35cb3295f827ae7",
+      "size": 84,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/b1fa4fce6a7a964dd4047ef4b35cb3295f827ae7"
+    },
+    {
+      "path": ".idea/encodings.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15a15b218a29e09c9190992732698d646e4d659a",
+      "size": 135,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/15a15b218a29e09c9190992732698d646e4d659a"
+    },
+    {
+      "path": ".idea/gradle.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ab9d323f63a3969e8fe67bd57889fe10d4ca4d4",
+      "size": 685,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/4ab9d323f63a3969e8fe67bd57889fe10d4ca4d4"
+    },
+    {
+      "path": ".idea/markdown-navigator.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2aa065bd70ab1a72944396eedb02265545ea2bb",
+      "size": 6828,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/f2aa065bd70ab1a72944396eedb02265545ea2bb"
+    },
+    {
+      "path": ".idea/markdown-navigator",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c33c820dcc68d2b531fa92090a7966f2002dca3",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/9c33c820dcc68d2b531fa92090a7966f2002dca3"
+    },
+    {
+      "path": ".idea/markdown-navigator/profiles_settings.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db06266325dcf09376c7c421962ae81f08872ee4",
+      "size": 144,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/db06266325dcf09376c7c421962ae81f08872ee4"
+    },
+    {
+      "path": ".idea/misc.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcecd355fb0ee4983b583b41144e68518304e0f1",
+      "size": 1231,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/dcecd355fb0ee4983b583b41144e68518304e0f1"
+    },
+    {
+      "path": ".idea/runConfigurations.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f68460d8b38ac04e3a3224d7c79ef719b1991a9",
+      "size": 564,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/7f68460d8b38ac04e3a3224d7c79ef719b1991a9"
+    },
+    {
+      "path": ".idea/vcs.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a25f7f4cb416c083d265558da75d457237d671",
+      "size": 180,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/94a25f7f4cb416c083d265558da75d457237d671"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35143407fa8e8b740904d3081e602adad1cc681c",
+      "size": 1626,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/35143407fa8e8b740904d3081e602adad1cc681c"
+    },
+    {
+      "path": "app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c708d7b9150c1100197b3360036e6bdf024698d9",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/c708d7b9150c1100197b3360036e6bdf024698d9"
+    },
+    {
+      "path": "app/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "796b96d1c402326528b4ba3c12ee9d92d0e212e9",
+      "size": 7,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/796b96d1c402326528b4ba3c12ee9d92d0e212e9"
+    },
+    {
+      "path": "app/build.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bce3a9730fb84a957501b13613acef6f6c18011",
+      "size": 1384,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/7bce3a9730fb84a957501b13613acef6f6c18011"
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1b424510da51fd82143bc74a0a801ae5a1e2fcd",
+      "size": 751,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/f1b424510da51fd82143bc74a0a801ae5a1e2fcd"
+    },
+    {
+      "path": "app/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "33557333be1a1ec155bbccc0d8d4a9d53ad36b9b",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/33557333be1a1ec155bbccc0d8d4a9d53ad36b9b"
+    },
+    {
+      "path": "app/src/androidTest",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a7d3644df360ef20156fec6fa1482945b3a47f4e",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/a7d3644df360ef20156fec6fa1482945b3a47f4e"
+    },
+    {
+      "path": "app/src/androidTest/java",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e140779ecd424aced033d434b6114c155ddd59b0",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/e140779ecd424aced033d434b6114c155ddd59b0"
+    },
+    {
+      "path": "app/src/androidTest/java/com",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3e92181102283a64a9817ba94707cffffeef4551",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/3e92181102283a64a9817ba94707cffffeef4551"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "596994724cc91b5b1acc1896bff63ed43cc4ec05",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/596994724cc91b5b1acc1896bff63ed43cc4ec05"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/tensorflowlite_nsfw_android",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5a39b6b08636c5adc842b753c8e09f1da00e8058",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/5a39b6b08636c5adc842b753c8e09f1da00e8058"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/tensorflowlite_nsfw_android/ExampleInstrumentedTest.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2577ca45a288f5ba3418d4068d930cbf9debeede",
+      "size": 680,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/2577ca45a288f5ba3418d4068d930cbf9debeede"
+    },
+    {
+      "path": "app/src/main",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7cc13a5971cd8955e98591c13cd33d0644e9f216",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/7cc13a5971cd8955e98591c13cd33d0644e9f216"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cbcd6f89f25a3836e1e5ae6bb066ba934f3a257",
+      "size": 733,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/6cbcd6f89f25a3836e1e5ae6bb066ba934f3a257"
+    },
+    {
+      "path": "app/src/main/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3eb0c7f7c1d6e28da93c0628ad8c52d20ff76572",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/3eb0c7f7c1d6e28da93c0628ad8c52d20ff76572"
+    },
+    {
+      "path": "app/src/main/assets/aaa.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "753537f5b596d9d8ecf7984a1799a5bb83ce8cb8",
+      "size": 456096,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/753537f5b596d9d8ecf7984a1799a5bb83ce8cb8"
+    },
+    {
+      "path": "app/src/main/assets/nsfw.tflite",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a13a741bd8a041f3eda2265b17a13b79937fa17c",
+      "size": 5958568,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/a13a741bd8a041f3eda2265b17a13b79937fa17c"
+    },
+    {
+      "path": "app/src/main/java",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c77f82712aa3738dbbbecc541a0dc82d57240cc2",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/c77f82712aa3738dbbbecc541a0dc82d57240cc2"
+    },
+    {
+      "path": "app/src/main/java/com",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6a991fcd0c9cb482e239aecc4fde88c799465dce",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/6a991fcd0c9cb482e239aecc4fde88c799465dce"
+    },
+    {
+      "path": "app/src/main/java/com/example",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0620b54ca62d72297dca890d9f0d0d2a33146eef",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/0620b54ca62d72297dca890d9f0d0d2a33146eef"
+    },
+    {
+      "path": "app/src/main/java/com/example/tensorflowlite_nsfw_android",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6d637eb867eb259c76cec62e81eea5d117fe2849",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/6d637eb867eb259c76cec62e81eea5d117fe2849"
+    },
+    {
+      "path": "app/src/main/java/com/example/tensorflowlite_nsfw_android/MainActivity.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30b2b1340824597ab7483c3e2a1849d8f086a8da",
+      "size": 1165,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/30b2b1340824597ab7483c3e2a1849d8f086a8da"
+    },
+    {
+      "path": "app/src/main/java/com/example/tensorflowlite_nsfw_android/tflite",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "97db024d1fdc9f391e245ab17cff2447559efc12",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/97db024d1fdc9f391e245ab17cff2447559efc12"
+    },
+    {
+      "path": "app/src/main/java/com/example/tensorflowlite_nsfw_android/tflite/Classifier.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "565d2520c4b2a3ec188a8d0cb6e044c68e90799e",
+      "size": 7759,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/565d2520c4b2a3ec188a8d0cb6e044c68e90799e"
+    },
+    {
+      "path": "app/src/main/java/com/example/tensorflowlite_nsfw_android/tflite/ClassifierFloatMobileNet.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f0225a72aee6e8fb021e0bd9d93ecc0143a842e",
+      "size": 1567,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/2f0225a72aee6e8fb021e0bd9d93ecc0143a842e"
+    },
+    {
+      "path": "app/src/main/res",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cc46179ff21364e48f008799d55e2c3275e4c2bd",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/cc46179ff21364e48f008799d55e2c3275e4c2bd"
+    },
+    {
+      "path": "app/src/main/res/drawable-v24",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ac4006490f7a283129a64cc68c56d674da55a2be",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/ac4006490f7a283129a64cc68c56d674da55a2be"
+    },
+    {
+      "path": "app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f6bb290603d7caa16c5fb6f61bbfdc750622f5c",
+      "size": 1880,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/1f6bb290603d7caa16c5fb6f61bbfdc750622f5c"
+    },
+    {
+      "path": "app/src/main/res/drawable",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b081d1c43409c2e10c16216ddf180b299678171c",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/b081d1c43409c2e10c16216ddf180b299678171c"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_background.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d025f9bf6b67c63044a36a9ff44fbc69e5c5822",
+      "size": 5606,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/0d025f9bf6b67c63044a36a9ff44fbc69e5c5822"
+    },
+    {
+      "path": "app/src/main/res/layout",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "760fc0d6e0c29019c75e0263bde68f07abe232f2",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/760fc0d6e0c29019c75e0263bde68f07abe232f2"
+    },
+    {
+      "path": "app/src/main/res/layout/activity_main.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84f19512d95eb36a2e875d2632042563963c83ad",
+      "size": 768,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/84f19512d95eb36a2e875d2632042563963c83ad"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "82a5c352420d748e55a96b8f576bc0f0688a8469",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/82a5c352420d748e55a96b8f576bc0f0688a8469"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eca70cfe52eac1ba66ba280a68ca7be8fcf88a16",
+      "size": 272,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/eca70cfe52eac1ba66ba280a68ca7be8fcf88a16"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eca70cfe52eac1ba66ba280a68ca7be8fcf88a16",
+      "size": 272,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/eca70cfe52eac1ba66ba280a68ca7be8fcf88a16"
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "14503cd1ae181fadb3b9b7309e2e5293e13358c1",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/14503cd1ae181fadb3b9b7309e2e5293e13358c1"
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "898f3ed59ac9f3248734a00e5902736c9367d455",
+      "size": 2963,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/898f3ed59ac9f3248734a00e5902736c9367d455"
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dffca3601eba7bf5f409bdd520820e2eb5122c75",
+      "size": 4905,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/dffca3601eba7bf5f409bdd520820e2eb5122c75"
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "774a1c1fe71b622a9fab75655a51595593cbd3b4",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/774a1c1fe71b622a9fab75655a51595593cbd3b4"
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64ba76f75e9ce021aa3d95c213491f73bcacb597",
+      "size": 2060,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/64ba76f75e9ce021aa3d95c213491f73bcacb597"
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dae5e082342fcdeee5db8a6e0b27028e2d2808f5",
+      "size": 2783,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/dae5e082342fcdeee5db8a6e0b27028e2d2808f5"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "217c90d703526010bd2836a27e6a8f9e879631e3",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/217c90d703526010bd2836a27e6a8f9e879631e3"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5ed46597ea8447d91ab1786a34e30f1c26b18bd",
+      "size": 4490,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/e5ed46597ea8447d91ab1786a34e30f1c26b18bd"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14ed0af35023e4f1901cf03487b6c524257b8483",
+      "size": 6895,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/14ed0af35023e4f1901cf03487b6c524257b8483"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4ac7a9a1276ab517e476dffd7026861340375d2c",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/4ac7a9a1276ab517e476dffd7026861340375d2c"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0907cac3bfd8fbfdc46e1108247f0a1055387ec",
+      "size": 6387,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/b0907cac3bfd8fbfdc46e1108247f0a1055387ec"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8ae03154975f397f8ed1b84f2d4bf9783ecfa26",
+      "size": 10413,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/d8ae03154975f397f8ed1b84f2d4bf9783ecfa26"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a22dec46017e3b4fc1dc50547848235937de400f",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/a22dec46017e3b4fc1dc50547848235937de400f"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c18de9e66108411737e910f5c1972476f03ddbf",
+      "size": 9128,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/2c18de9e66108411737e910f5c1972476f03ddbf"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "beed3cdd2c32af5114a7dc70b9ef5b698eb8797e",
+      "size": 15132,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/beed3cdd2c32af5114a7dc70b9ef5b698eb8797e"
+    },
+    {
+      "path": "app/src/main/res/values",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "06a6b3c6e666420f7b72bd78cac9697a99877400",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/06a6b3c6e666420f7b72bd78cac9697a99877400"
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69b22338c6510250df3b43672635120dbce2fa49",
+      "size": 208,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/69b22338c6510250df3b43672635120dbce2fa49"
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42d721685066c0680d9c48c32ee219d6900bdc20",
+      "size": 90,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/42d721685066c0680d9c48c32ee219d6900bdc20"
+    },
+    {
+      "path": "app/src/main/res/values/styles.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5885930df6d10edf3d6df40d6556297d11f953da",
+      "size": 383,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/5885930df6d10edf3d6df40d6556297d11f953da"
+    },
+    {
+      "path": "app/src/test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "90b33f8d2a4b722c3f3d6edc8bb3ad6b55ac8539",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/90b33f8d2a4b722c3f3d6edc8bb3ad6b55ac8539"
+    },
+    {
+      "path": "app/src/test/java",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "05d6b11fad2ffb41cd2a876b09e30d379cac0481",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/05d6b11fad2ffb41cd2a876b09e30d379cac0481"
+    },
+    {
+      "path": "app/src/test/java/com",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a1acebe47ab4ee94d2da2d3550554a40b43bd148",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/a1acebe47ab4ee94d2da2d3550554a40b43bd148"
+    },
+    {
+      "path": "app/src/test/java/com/example",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f556a8d982b94307c62938785678a9cd9ceaced7",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/f556a8d982b94307c62938785678a9cd9ceaced7"
+    },
+    {
+      "path": "app/src/test/java/com/example/tensorflowlite_nsfw_android",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6744ded64425150129fdf7ccc6d82e67b10a044",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/c6744ded64425150129fdf7ccc6d82e67b10a044"
+    },
+    {
+      "path": "app/src/test/java/com/example/tensorflowlite_nsfw_android/ExampleUnitTest.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d356daf70914f682dcb4280e39e0f7bc60059ee2",
+      "size": 364,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/d356daf70914f682dcb4280e39e0f7bc60059ee2"
+    },
+    {
+      "path": "build.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1db6621d83f337d2aa7a68092c501cc653f93247",
+      "size": 704,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/1db6621d83f337d2aa7a68092c501cc653f93247"
+    },
+    {
+      "path": "gradle.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85be9eadecdafe27af8aea894a5ef0692593aef3",
+      "size": 817,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/85be9eadecdafe27af8aea894a5ef0692593aef3"
+    },
+    {
+      "path": "gradle",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b40a5cc28ee5d698994ae54b73c9cb99a7e7fbe9",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/b40a5cc28ee5d698994ae54b73c9cb99a7e7fbe9"
+    },
+    {
+      "path": "gradle/wrapper",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "782c2e8e7c0b50be098a48ca68d31f289d340368",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/782c2e8e7c0b50be098a48ca68d31f289d340368"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6b961fd5a86aa5fbfe90f707c3138408be7c718",
+      "size": 54329,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/f6b961fd5a86aa5fbfe90f707c3138408be7c718"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5730208af384f826492600d29ba1f81a91dff8a",
+      "size": 232,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/f5730208af384f826492600d29ba1f81a91dff8a"
+    },
+    {
+      "path": "gradlew",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cccdd3d517fc5249beaefa600691cf150f2fa3e6",
+      "size": 5296,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/cccdd3d517fc5249beaefa600691cf150f2fa3e6"
+    },
+    {
+      "path": "gradlew.bat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9553162f122c71b34635112e717c3e733b5b212",
+      "size": 2176,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/f9553162f122c71b34635112e717c3e733b5b212"
+    },
+    {
+      "path": "img",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "51897b95dadd7b907897d7d872af1560c7119156",
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/trees/51897b95dadd7b907897d7d872af1560c7119156"
+    },
+    {
+      "path": "img/aaaaa.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b6eb7d199e35b50a537f65e8f62372c5ff89e96",
+      "size": 1320091,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/7b6eb7d199e35b50a537f65e8f62372c5ff89e96"
+    },
+    {
+      "path": "img/nsfw_img.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68f2f93b87e834b7a5196949d5266a9b9f789dc7",
+      "size": 86258,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/68f2f93b87e834b7a5196949d5266a9b9f789dc7"
+    },
+    {
+      "path": "settings.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7b4def49cb53d9aa04228dd3edb14c9e635e003",
+      "size": 15,
+      "url": "https://api.github.com/repos/devzwy/TensorflowLite-NSFW-Android/git/blobs/e7b4def49cb53d9aa04228dd3edb14c9e635e003"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,10 @@
+[project]
+name = "napex-backend"
+version = "1.0.0"
+description = "NAP-EX — الخادم المركزي لمنصة مكافحة الابتزاز الإلكتروني"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["app/tests"]
+python_files = ["test_*.py"]
+addopts = "-v"

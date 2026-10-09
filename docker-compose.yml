@@ -1,0 +1,73 @@
+services:
+  # ============ قاعدة البيانات ============
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: napex
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-napex_dev_password}
+      POSTGRES_DB: napex
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U napex"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  # ============ Redis (OTP/كاش/WS pub-sub) ============
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  # ============ الخادم المركزي ============
+  backend:
+    build: ./backend
+    environment:
+      SECRET_KEY: ${SECRET_KEY:-change-me-in-production}
+      DATABASE_URL: postgresql+psycopg2://napex:${POSTGRES_PASSWORD:-napex_dev_password}@postgres:5432/napex
+      REDIS_URL: redis://redis:6379/0
+      UPLOAD_DIR: /data/uploads
+      DEV_ACCEPT_ANY_OTP: "true"
+      SCHEDULER_ENABLED: "true"
+      CORS_ORIGINS: http://localhost
+    volumes:
+      - napex_uploads:/data/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ============ بوابة Nginx (SSL + Rate Limit + التوجيه) ============
+  gateway:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./docker/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - backend
+      - dashboard
+    restart: unless-stopped
+
+  # ============ لوحة التحكم (واجهة ثابتة) ============
+  dashboard:
+    build: ./dashboard
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+  redis_data:
+  napex_uploads:

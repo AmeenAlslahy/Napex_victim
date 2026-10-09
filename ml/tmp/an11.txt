@@ -1,0 +1,6 @@
+Analyzing napex_victim_app...                                   
+
+   info - Dangling library doc comment. Add a 'library' directive after the library comment - lib\presentation\shared\widgets\napex_card.dart:2:1 - dangling_library_doc_comments
+  error - Too many positional arguments: 2 expected, but 3 found. Try removing the extra arguments - test\domain\usecases\process_message_usecase_test.dart:53:62 - extra_positional_arguments
+
+2 issues found. (ran in 16.5s)

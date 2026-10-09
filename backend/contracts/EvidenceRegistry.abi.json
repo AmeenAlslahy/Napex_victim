@@ -1,0 +1,43 @@
+{
+  "contractName": "EvidenceRegistry",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {"indexed": true, "internalType": "string", "name": "batchId", "type": "string"},
+        {"indexed": true, "internalType": "bytes32", "name": "merkleRoot", "type": "bytes32"},
+        {"indexed": false, "internalType": "uint256", "name": "timestamp", "type": "uint256"}
+      ],
+      "name": "Anchored",
+      "type": "event"
+    },
+    {
+      "inputs": [
+        {"internalType": "string", "name": "batchId", "type": "string"},
+        {"internalType": "bytes32", "name": "merkleRoot", "type": "bytes32"}
+      ],
+      "name": "anchor",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [{"internalType": "string", "name": "", "type": "string"}],
+      "name": "roots",
+      "outputs": [
+        {"internalType": "bytes32", "name": "root", "type": "bytes32"},
+        {"internalType": "uint256", "name": "timestamp", "type": "uint256"},
+        {"internalType": "address", "name": "anchoredBy", "type": "address"}
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [{"internalType": "string", "name": "", "type": "string"}],
+      "name": "anchoredAt",
+      "outputs": [{"internalType": "uint256", "name": "", "type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+}

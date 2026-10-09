@@ -1,0 +1,20 @@
+Analyzing napex_victim_app...                                   
+
+warning - Dead code. Try removing the code, or fixing the code before it so that it can be reached - lib\domain\repositories\settings_repository.dart:139:40 - dead_code
+   info - Unnecessary 'this.' qualifier. Try removing 'this.' - lib\domain\repositories\settings_repository.dart:139:43 - unnecessary_this
+warning - The left operand can't be null, so the right operand is never executed. Try removing the operator and the right operand - lib\domain\repositories\settings_repository.dart:139:43 - dead_null_aware_expression
+   info - Unnecessary 'this.' qualifier. Try removing 'this.' - lib\domain\repositories\settings_repository.dart:140:45 - unnecessary_this
+warning - The left operand can't be null, so the right operand is never executed. Try removing the operator and the right operand - lib\domain\repositories\settings_repository.dart:140:45 - dead_null_aware_expression
+warning - The operand can't be 'null', so the condition is always 'true'. Remove the condition - lib\presentation\features\settings\screens\settings_screen.dart:596:42 - unnecessary_null_comparison
+  error - The getter 'category' isn't defined for the type '(AnalysisResult?, Failure?)'. Try importing the library that defines 'category', correcting the name to the name of an existing getter, or defining a getter or field named 'category' - lib\presentation\features\settings\screens\settings_screen.dart:597:35 - undefined_getter
+  error - Undefined name 'MessageCategory'. Try correcting the name to one that is defined, or defining the name - lib\presentation\features\settings\screens\settings_screen.dart:597:47 - undefined_identifier
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext - lib\presentation\features\settings\screens\settings_screen.dart:598:50 - use_build_context_synchronously
+warning - The '!' will have no effect because the receiver can't be null. Try removing the '!' operator - lib\presentation\features\settings\screens\settings_screen.dart:603:53 - unnecessary_non_null_assertion
+  error - The getter 'confidence' isn't defined for the type '(AnalysisResult?, Failure?)'. Try importing the library that defines 'confidence', correcting the name to the name of an existing getter, or defining a getter or field named 'confidence' - lib\presentation\features\settings\screens\settings_screen.dart:603:55 - undefined_getter
+warning - The operand can't be 'null', so the condition is always 'false'. Try removing the condition, an enclosing condition, or the whole conditional statement - lib\presentation\features\settings\screens\settings_screen.dart:604:43 - unnecessary_null_comparison
+warning - Dead code. Try removing the code, or fixing the code before it so that it can be reached - lib\presentation\features\settings\screens\settings_screen.dart:605:45 - dead_code
+  error - The getter 'category' isn't defined for the type '(AnalysisResult?, Failure?)'. Try importing the library that defines 'category', correcting the name to the name of an existing getter, or defining a getter or field named 'category' - lib\presentation\features\settings\screens\settings_screen.dart:606:68 - undefined_getter
+  error - The named parameter 'webGuardEnabled' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'webGuardEnabled' - lib\presentation\providers\settings_providers.dart:72:28 - undefined_named_parameter
+  error - The named parameter 'urlFilterEnabled' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'urlFilterEnabled' - lib\presentation\providers\settings_providers.dart:75:28 - undefined_named_parameter
+
+16 issues found. (ran in 10.7s)

@@ -1,0 +1,874 @@
+{
+  "version": 1,
+  "k_factor": 2.6,
+  "description": "معجم كشف الابتزاز الإلكتروني - NAP-EX. تُطبَّع العبارات آلياً قبل المطابقة (إزالة التشكيل وتوحيد الحروف).",
+  "categories": {
+    "extortion": {
+      "default_weight": 3.0,
+      "keywords": [
+        {
+          "phrase": "عندي صورك",
+          "weight": 7
+        },
+        {
+          "phrase": "عندي صورة لك",
+          "weight": 6
+        },
+        {
+          "phrase": "معي صورك",
+          "weight": 7
+        },
+        {
+          "phrase": "عندي فيديوهاتك",
+          "weight": 7
+        },
+        {
+          "phrase": "عندي فيديو",
+          "weight": 4
+        },
+        {
+          "phrase": "عندي مقاطع",
+          "weight": 4
+        },
+        {
+          "phrase": "سأنشر",
+          "weight": 5
+        },
+        {
+          "phrase": "بأنشر",
+          "weight": 5
+        },
+        {
+          "phrase": "سافضحك",
+          "weight": 6
+        },
+        {
+          "phrase": "بفضحك",
+          "weight": 6
+        },
+        {
+          "phrase": "فضيحة",
+          "weight": 3
+        },
+        {
+          "phrase": "سارسلها لاهلك",
+          "weight": 6
+        },
+        {
+          "phrase": "ارسلها لاهلك",
+          "weight": 6
+        },
+        {
+          "phrase": "اهلك",
+          "weight": 2
+        },
+        {
+          "phrase": "عائلتك",
+          "weight": 2
+        },
+        {
+          "phrase": "زوجتك",
+          "weight": 3
+        },
+        {
+          "phrase": "اصحابك",
+          "weight": 2
+        },
+        {
+          "phrase": "زملاء عملك",
+          "weight": 3
+        },
+        {
+          "phrase": "ادفع او",
+          "weight": 5
+        },
+        {
+          "phrase": "او سأنشر",
+          "weight": 5
+        },
+        {
+          "phrase": "الا اذا دفعت",
+          "weight": 6
+        },
+        {
+          "phrase": "الا اذا",
+          "weight": 3
+        },
+        {
+          "phrase": "المبلغ المطلوب",
+          "weight": 4
+        },
+        {
+          "phrase": "مقابل مبلغ",
+          "weight": 4
+        },
+        {
+          "phrase": "مقابل فلوس",
+          "weight": 5
+        },
+        {
+          "phrase": "مقابل مالية",
+          "weight": 4
+        },
+        {
+          "phrase": "تحويل رقم الحساب",
+          "weight": 5
+        },
+        {
+          "phrase": "رقم الحساب",
+          "weight": 2
+        },
+        {
+          "phrase": "حوالة",
+          "weight": 1
+        },
+        {
+          "phrase": "شحن رصيد",
+          "weight": 2
+        },
+        {
+          "phrase": "بطاقة شحن",
+          "weight": 3
+        },
+        {
+          "phrase": "بيتكوين",
+          "weight": 3
+        },
+        {
+          "phrase": "خلال 24 ساعة",
+          "weight": 2
+        },
+        {
+          "phrase": "خلال ساعة",
+          "weight": 2
+        },
+        {
+          "phrase": "قبل ما",
+          "weight": 1
+        },
+        {
+          "phrase": "لن احذف",
+          "weight": 3
+        },
+        {
+          "phrase": "ما راح احذف",
+          "weight": 4
+        },
+        {
+          "phrase": "محفوظة عندي",
+          "weight": 4
+        },
+        {
+          "phrase": "نسخة عندي",
+          "weight": 4
+        },
+        {
+          "phrase": "اعرف عنوانك",
+          "weight": 5
+        },
+        {
+          "phrase": "عندي معلوماتك",
+          "weight": 4
+        },
+        {
+          "phrase": "كل شي عندك عندي",
+          "weight": 5
+        },
+        {
+          "phrase": "ارسل الاموال",
+          "weight": 5
+        },
+        {
+          "phrase": "ارسل فلوس",
+          "weight": 5
+        },
+        {
+          "phrase": "لو ما دفعت",
+          "weight": 5
+        },
+        {
+          "phrase": "اذاعدر",
+          "weight": 3
+        },
+        {
+          "phrase": "بتندم",
+          "weight": 2
+        },
+        {
+          "phrase": "لا تخلي الامور تتعقد",
+          "weight": 4
+        },
+        {
+          "phrase": "تسوية",
+          "weight": 1
+        },
+        {
+          "phrase": "i have your",
+          "weight": 6
+        },
+        {
+          "phrase": "or i will",
+          "weight": 4
+        },
+        {
+          "phrase": "pay me",
+          "weight": 4
+        },
+        {
+          "phrase": "send money",
+          "weight": 3
+        },
+        {
+          "phrase": "blackmail",
+          "weight": 6
+        },
+        {
+          "phrase": "expose you",
+          "weight": 5
+        },
+        {
+          "phrase": "leak your",
+          "weight": 5
+        },
+        {
+          "phrase": "send nudes",
+          "weight": 5
+        },
+        {
+          "phrase": "bitcoin",
+          "weight": 2
+        },
+        {
+          "phrase": "gift card",
+          "weight": 3
+        },
+        {
+          "phrase": "بنشر صورك",
+          "weight": 7
+        },
+        {
+          "phrase": "بنشر مقاطعك",
+          "weight": 7
+        },
+        {
+          "phrase": "بنشرها",
+          "weight": 6
+        },
+        {
+          "phrase": "سانشرها",
+          "weight": 6
+        },
+        {
+          "phrase": "سانشر صورك",
+          "weight": 7
+        },
+        {
+          "phrase": "راح انشرها",
+          "weight": 6
+        },
+        {
+          "phrase": "فضيحتك",
+          "weight": 5
+        },
+        {
+          "phrase": "بين كل الناس",
+          "weight": 3
+        },
+        {
+          "phrase": "بيوصل لعند اهلك",
+          "weight": 5
+        },
+        {
+          "phrase": "بيوصل لاهلك",
+          "weight": 5
+        },
+        {
+          "phrase": "يوصلك لعند اهلك",
+          "weight": 5
+        },
+        {
+          "phrase": "لعند اهلك",
+          "weight": 3
+        },
+        {
+          "phrase": "اسمع بك",
+          "weight": 5
+        },
+        {
+          "phrase": "صورك وانت عاريه",
+          "weight": 7
+        },
+        {
+          "phrase": "صورك عاريه",
+          "weight": 6
+        },
+        {
+          "phrase": "انت عاريه",
+          "weight": 5
+        },
+        {
+          "phrase": "ترسلي صورك",
+          "weight": 5
+        },
+        {
+          "phrase": "اذا ما ترسل لي",
+          "weight": 2
+        },
+        {
+          "phrase": "اذا ما تنفذ",
+          "weight": 2
+        },
+        {
+          "phrase": "معك مهله",
+          "weight": 3
+        },
+        {
+          "phrase": "مهله يومين",
+          "weight": 4
+        },
+        {
+          "phrase": "عندك يومين",
+          "weight": 3
+        },
+        {
+          "phrase": "انشر صورك",
+          "weight": 7
+        },
+        {
+          "phrase": "ممكن تنتشر",
+          "weight": 4
+        },
+        {
+          "phrase": "عندي اشياء لك",
+          "weight": 5
+        },
+        {
+          "phrase": "pay or i send",
+          "weight": 5
+        },
+        {
+          "phrase": "محادثاتك مع البنت",
+          "weight": 6
+        },
+        {
+          "phrase": "تدفع او",
+          "weight": 4
+        },
+        {
+          "phrase": "معي فيديو خاص",
+          "weight": 5
+        },
+        {
+          "phrase": "على هذا الحساب",
+          "weight": 3
+        },
+        {
+          "phrase": "اخر تحذير",
+          "weight": 6
+        },
+        {
+          "phrase": "انشر كل شي",
+          "weight": 5
+        },
+        {
+          "phrase": "اخر فرصه",
+          "weight": 5
+        },
+        {
+          "phrase": "تصاورك",
+          "weight": 6
+        },
+        {
+          "phrase": "ننشرهم",
+          "weight": 5
+        },
+        {
+          "phrase": "صيفط الفلوس",
+          "weight": 5
+        },
+        {
+          "phrase": "معايا الفيديوهات",
+          "weight": 6
+        },
+        {
+          "phrase": "دفع ولا مشكل",
+          "weight": 4
+        },
+        {
+          "phrase": "خلص دفع",
+          "weight": 3
+        },
+        {
+          "phrase": "على الفيسبوك",
+          "weight": 4
+        },
+        {
+          "phrase": "ادفع الان",
+          "weight": 4
+        },
+        {
+          "phrase": "ارسل الصور",
+          "weight": 5
+        },
+        {
+          "phrase": "لزوجتك",
+          "weight": 5
+        },
+        {
+          "phrase": "على كل الجروبات",
+          "weight": 4
+        },
+        {
+          "phrase": "الا انشر",
+          "weight": 4
+        },
+        {
+          "phrase": "انشر الصور",
+          "weight": 5
+        },
+        {
+          "phrase": "امسحها",
+          "weight": 5
+        },
+        {
+          "phrase": "بطاقه شحن",
+          "weight": 4
+        },
+        {
+          "phrase": "راح اخبر عائلتك",
+          "weight": 5
+        },
+        {
+          "phrase": "ارسل المبلغ",
+          "weight": 4
+        },
+        {
+          "phrase": "ادفع والا",
+          "weight": 5
+        },
+        {
+          "phrase": "ادفع وخلصنا",
+          "weight": 5
+        },
+        {
+          "phrase": "ادفع ولا شوف",
+          "weight": 5
+        },
+        {
+          "phrase": "شوف وين",
+          "weight": 2
+        }
+      ]
+    },
+    "threat": {
+      "default_weight": 3.0,
+      "keywords": [
+        {
+          "phrase": "سأقتلك",
+          "weight": 7
+        },
+        {
+          "phrase": "راح نقتلك",
+          "weight": 6
+        },
+        {
+          "phrase": "نضربك",
+          "weight": 4
+        },
+        {
+          "phrase": "ساذيبك",
+          "weight": 4
+        },
+        {
+          "phrase": "نعرف وين تسكن",
+          "weight": 6
+        },
+        {
+          "phrase": "عنوانك عندنا",
+          "weight": 6
+        },
+        {
+          "phrase": "نعرف بيتك",
+          "weight": 5
+        },
+        {
+          "phrase": "شوف وين تروح",
+          "weight": 4
+        },
+        {
+          "phrase": "انتبه لنفسك",
+          "weight": 2
+        },
+        {
+          "phrase": "احذر",
+          "weight": 1
+        },
+        {
+          "phrase": "مستعد لك",
+          "weight": 2
+        },
+        {
+          "phrase": "kill you",
+          "weight": 6
+        },
+        {
+          "phrase": "i know where",
+          "weight": 4
+        },
+        {
+          "phrase": "watch your back",
+          "weight": 5
+        },
+        {
+          "phrase": "ما تلوم الا نفسك",
+          "weight": 5
+        },
+        {
+          "phrase": "والا ما تلوم الا نفسك",
+          "weight": 5
+        },
+        {
+          "phrase": "اعرف وين تسكن",
+          "weight": 6
+        },
+        {
+          "phrase": "راح اجيك",
+          "weight": 5
+        },
+        {
+          "phrase": "اجيك انت وعائلتك",
+          "weight": 6
+        },
+        {
+          "phrase": "اعرف مكان عملك",
+          "weight": 6
+        },
+        {
+          "phrase": "افضحك",
+          "weight": 6
+        },
+        {
+          "phrase": "اخبر كل الناس",
+          "weight": 5
+        },
+        {
+          "phrase": "to your family",
+          "weight": 4
+        },
+        {
+          "phrase": "i know where you live",
+          "weight": 7
+        },
+        {
+          "phrase": "نعرف مكان عملك",
+          "weight": 6
+        },
+        {
+          "phrase": "لا تختبرنا",
+          "weight": 4
+        },
+        {
+          "phrase": "ادمر حياتك",
+          "weight": 5
+        },
+        {
+          "phrase": "اذا ما نفذت",
+          "weight": 3
+        },
+        {
+          "phrase": "تندم",
+          "weight": 4
+        },
+        {
+          "phrase": "جعلك تندم",
+          "weight": 5
+        },
+        {
+          "phrase": "وين ساكن",
+          "weight": 5
+        },
+        {
+          "phrase": "عارف وين ساكن",
+          "weight": 6
+        },
+        {
+          "phrase": "لا تجبرني",
+          "weight": 4
+        },
+        {
+          "phrase": "عارف بيتكم",
+          "weight": 5
+        },
+        {
+          "phrase": "تراني عارف",
+          "weight": 4
+        },
+        {
+          "phrase": "ساكن فين",
+          "weight": 5
+        },
+        {
+          "phrase": "فين ساكن",
+          "weight": 5
+        },
+        {
+          "phrase": "اذيك",
+          "weight": 5
+        },
+        {
+          "phrase": "راح اذيك",
+          "weight": 6
+        },
+        {
+          "phrase": "لا تلعب معي",
+          "weight": 6
+        },
+        {
+          "phrase": "انتبه لنفسك و لاولادك",
+          "weight": 5
+        },
+        {
+          "phrase": "انتبه لنفسك ولاولادك",
+          "weight": 5
+        },
+        {
+          "phrase": "انتظرني",
+          "weight": 4
+        },
+        {
+          "phrase": "اعرف كل شي عنك",
+          "weight": 5
+        }
+      ]
+    },
+    "suspicious": {
+      "default_weight": 2.0,
+      "keywords": [
+        {
+          "phrase": "ارسل صورة",
+          "weight": 2
+        },
+        {
+          "phrase": "ارسل صورك",
+          "weight": 3
+        },
+        {
+          "phrase": "صورتك",
+          "weight": 1
+        },
+        {
+          "phrase": "صورتك الخاصة",
+          "weight": 3
+        },
+        {
+          "phrase": "فيديو خاص",
+          "weight": 3
+        },
+        {
+          "phrase": "كام",
+          "weight": 1
+        },
+        {
+          "phrase": "فيديو كول",
+          "weight": 1
+        },
+        {
+          "phrase": "رقم الايدي",
+          "weight": 2
+        },
+        {
+          "phrase": "رمز التحقق",
+          "weight": 3
+        },
+        {
+          "phrase": "كود التحقق",
+          "weight": 3
+        },
+        {
+          "phrase": "الحساب محظور",
+          "weight": 2
+        },
+        {
+          "phrase": "ربح جائزة",
+          "weight": 3
+        },
+        {
+          "phrase": "لقد ربحت",
+          "weight": 3
+        },
+        {
+          "phrase": "انقر الرابط",
+          "weight": 2
+        },
+        {
+          "phrase": "اضغط الرابط",
+          "weight": 2
+        },
+        {
+          "phrase": "تحديث بياناتك",
+          "weight": 2
+        },
+        {
+          "phrase": "otp",
+          "weight": 3
+        },
+        {
+          "phrase": "verify your account",
+          "weight": 3
+        },
+        {
+          "phrase": "ممكن ترسل لي صوره",
+          "weight": 3
+        },
+        {
+          "phrase": "you won",
+          "weight": 4
+        },
+        {
+          "phrase": "congratulations",
+          "weight": 3
+        },
+        {
+          "phrase": "ارسل لي صوره",
+          "weight": 3
+        },
+        {
+          "phrase": "ارسل لي الصوره",
+          "weight": 2
+        },
+        {
+          "phrase": "نتبادل صور",
+          "weight": 4
+        },
+        {
+          "phrase": "الرقم السري",
+          "weight": 5
+        },
+        {
+          "phrase": "تم اختراق",
+          "weight": 4
+        },
+        {
+          "phrase": "اكد هويتك",
+          "weight": 4
+        },
+        {
+          "phrase": "ربحت جائزه",
+          "weight": 4
+        },
+        {
+          "phrase": "مبروك",
+          "weight": 2
+        },
+        {
+          "phrase": "بياناتك البنكيه",
+          "weight": 5
+        },
+        {
+          "phrase": "معجب بك",
+          "weight": 4
+        },
+        {
+          "phrase": "شوف لك حل",
+          "weight": 3
+        },
+        {
+          "phrase": "ولا بزعل",
+          "weight": 3
+        },
+        {
+          "phrase": "عرض خاص لك",
+          "weight": 3
+        }
+      ]
+    },
+    "spam": {
+      "default_weight": 1.0,
+      "keywords": [
+        {
+          "phrase": "عرض خاص",
+          "weight": 2
+        },
+        {
+          "phrase": "خصم",
+          "weight": 1
+        },
+        {
+          "phrase": "اشترك الان",
+          "weight": 3
+        },
+        {
+          "phrase": "توصيل",
+          "weight": 1
+        },
+        {
+          "phrase": "متجر",
+          "weight": 1
+        },
+        {
+          "phrase": "سوق",
+          "weight": 1
+        },
+        {
+          "phrase": "عقار",
+          "weight": 1
+        },
+        {
+          "phrase": "توظيف",
+          "weight": 1
+        },
+        {
+          "phrase": "discount",
+          "weight": 1
+        },
+        {
+          "phrase": "subscribe",
+          "weight": 2
+        },
+        {
+          "phrase": "lottery",
+          "weight": 3
+        },
+        {
+          "phrase": "winner",
+          "weight": 2
+        },
+        {
+          "phrase": "click here",
+          "weight": 2
+        },
+        {
+          "phrase": "توصيل سريع",
+          "weight": 2
+        },
+        {
+          "phrase": "اتصل الان",
+          "weight": 2
+        }
+      ]
+    }
+  },
+  "recommendations": {
+    "extortion": [
+      "لا تدفع أي مبلغ — الدفع يزيد الابتزاز ولا يوقفه",
+      "احتفظ بالرسائل ولا تحذفها — هي دليلك",
+      "أبلغ فوراً عبر هذا التطبيق",
+      "لا ترسل صوراً أو معلومات شخصية أخرى",
+      "أخبر شخصاً تثق به — أنت لست وحدك"
+    ],
+    "threat": [
+      "إذا شعرت بخطر مباشر تواصل مع الجهات الأمنية فوراً",
+      "وثّق كل التهديدات بلقطات شاشة",
+      "أخبر عائلتك أو صديقاً مقرباً"
+    ],
+    "suspicious": [
+      "لا ترسل رموز التحقق لأي شخص مهما كان",
+      "تجنب إرسال صور شخصية لغير الموثوقين",
+      "احذر الروابط المجهولة"
+    ],
+    "spam": [
+      "يمكنك حجب المرسل",
+      "لا تنقر روابط مجهولة المصدر"
+    ]
+  }
+}
